@@ -1,2 +1,1 @@
-# mashupfy
-MashupFy Cashback PWA
+# MASHUPFY - CashBack PWA Prototype
