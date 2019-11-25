@@ -1,0 +1,6 @@
+[
+    { "cnpj":"123456789", "email":"americanas@gmail.com", "nome":"Americanas", "file_img":"company/americanas_logo.jpg", "created_at":"2019-11-23 16:12:28", "updated_at":"2019-11-23 16:12:28"},
+    { "cnpj":"112345678", "email":"brastemp@gmail.com", "nome":"Brastemp", "file_img":"company/brastemp_logo.png", "created_at":"2019-11-23 16:13:55", "updated_at":"2019-11-23 16:13:55"},
+    { "cnpj":"111456789", "email":"itunes@gmail.com", "nome":"Itunes", "file_img":"company/itunes_logo.png", "created_at":"2019-11-23 16:14:26", "updated_at":"2019-11-23 16:14:26"},
+    { "cnpj":"111156789", "email":"udemy@gmail.com", "nome":"Udemy", "file_img":"company/hotelurbano_logo.png", "created_at":"2019-11-23 16:15:09", "updated_at":"2019-11-23 16:15:09"}
+]

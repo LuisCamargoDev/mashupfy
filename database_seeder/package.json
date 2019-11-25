@@ -1,0 +1,16 @@
+{
+  "name": "seeder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.1.0",
+    "mysql": "^2.17.1"
+  },
+  "scripts": {
+    "users" : "node Users/users_data.js",
+    "companies" : "node Companies/companies_data.js",
+    "products" : "node Products/products_data.js"
+  }
+
+}

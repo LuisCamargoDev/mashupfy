@@ -1,0 +1,8 @@
+[
+    { "codigo":"987654321", "id_product_company":"123456789", "nome":"Liquidificador", "valor":120.0, "porcentagem":5, "file_img":"img/products/liquidificador_product.jpg", "created_at":"2019-11-23 16:13:22", "updated_at":"2019-11-23 16:13:22"},
+    { "codigo":"987654322", "id_product_company":"111456789", "nome":"Card Gift", "valor":10.0, "porcentagem":2, "file_img":"img/products/cardGift_product.jpg", "created_at":"2019-11-23 18:00:47", "updated_at":"2019-11-23 18:00:47"},
+    { "codigo":"987654222", "id_product_company":"112345678", "nome":"Geladeira Brastemp", "valor":250.0, "porcentagem":4, "file_img":"img/products/brastemp_product.jpg", "created_at":"2019-11-23 18:01:44", "updated_at":"2019-11-23 18:01:44"},
+    { "codigo":"987653222", "id_product_company":"123456789", "nome":"Cafeteira McCoffee", "valor":120.0, "porcentagem":3, "file_img":"img/products/cafeteria_product.jpg", "created_at":"2019-11-23 18:02:40", "updated_at":"2019-11-23 18:02:40"},
+    { "codigo":"987653332", "id_product_company":"111156789", "nome":"Viagem Cancun", "valor":4000.0, "porcentagem":7, "file_img":"img/products/cancun_product.jpeg", "created_at":"2019-11-23 18:03:57", "updated_at":"2019-11-23 18:03:57"},
+    { "codigo":"987653342", "id_product_company":"123456789", "nome":"SMART TV", "valor":1320.0, "porcentagem":5, "file_img":"img/products/tv_product.jpg", "created_at":"2019-11-23 18:04:53", "updated_at":"2019-11-23 18:04:53"}
+]
