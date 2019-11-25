@@ -32,6 +32,6 @@
   ## Instalaçao
     
     Para a instalaçao e execuçao do programa, voce devera seguir as seguintes instruçoes, NA ORDEM EM QUE ESTIVEREM ESCRITAS.
-    1) Executar o BackEnd
+    1) Executar o (BackEnd)[https://github.com/LuisCamargoDev/mashupfy/blob/master/backend/README.md]
     2) Executar o Seeders
     3) Executar o FrontEnd
